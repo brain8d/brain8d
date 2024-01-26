@@ -10,5 +10,9 @@ Skills:
  - Research
  - Communication
  - Project Managment
-![image](https://github.com/brain8d/brain8d/assets/153182255/0474ccfd-6e11-475c-a937-36ed2a2c217c) ![image](https://github.com/brain8d/brain8d/assets/153182255/d714630c-892a-4e2e-ab23-3a03ccb6d4d0)
+ 
+ Languages:
+ - Python
+ - R
+ - bash
 
