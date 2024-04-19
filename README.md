@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Brian
 
 I am Brian Daza. Genetic/Bio-engineer turned Data Engineer. I also really like coffee and cooking and climbing and pizza 🍕.
-- 🔭  Currently learning to use AI tools for Data Science at BeCode.
+- 🔭  Currently expanding skills to use AI tools for Data Engineering/Science at BeCode.
 - :dna:  "To understand something, build it". 
 
 <h3 align="left">Languages and Tools:</h3>
